@@ -7,7 +7,7 @@
 <br>
 
 <p align='center'>
-![](_docs/images/screenshot.png =600)
+![](_docs/images/screenshot.png){width:600px;}
 <br>
 ✨ <b><a href='https://devhints.io/'>devhints.io</a></b> ✨
 </p>
