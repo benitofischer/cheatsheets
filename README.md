@@ -7,7 +7,7 @@
 <br>
 
 <p align='center'>
-<a href='https://devhints.io/'><img src='_docs/images/screenshot.png' width=600></a>
+![](_docs/images/screenshot.png =600)
 <br>
 ✨ <b><a href='https://devhints.io/'>devhints.io</a></b> ✨
 </p>
